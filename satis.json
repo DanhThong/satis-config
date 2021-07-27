@@ -1,0 +1,104 @@
+{
+    "name": "thong/repository",
+    "homepage": "https://packagist.danhthong.com",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/admin-columns-pro",
+                "version": "5.5.3",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/dist/admin-columns-pro.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/advanced-custom-fields-pro",
+                "version": "5.9.7",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/dist/advanced-custom-fields-pro.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/advanced-custom-fields-pro",
+                "version": "5.9.9",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/advanced-custom-fields-pro-5.9.9.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/google-analytics-premium",
+                "version": "7.17.0",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/google-analytics-premium-7.17.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/gravityforms",
+                "version": "2.5.7",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/gravityforms-2.5.7.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/gravityformszapier",
+                "version": "4.1",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/gravityformszapier-4.1.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        }
+    ],
+    "require-all": true,
+    "require-dependencies": false,
+    "require-dev-dependencies": false,
+    "archive": {
+        "directory": "dist",
+        "format": "zip",
+        "skip-dev": true
+    }
+}
