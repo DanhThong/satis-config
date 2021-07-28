@@ -256,6 +256,111 @@
                     "composer/installers": "~1.0"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/thirstyaffiliates",
+                "version": "3.10.2",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/thirstyaffiliates-3.10.2.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/monsterinsights-dimensions",
+                "version": "1.3.2",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/monsterinsights-dimensions-1.3.2.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/monsterinsights-forms",
+                "version": "1.3.5",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/monsterinsights-forms-1.3.5.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/monsterinsights-page-insights",
+                "version": "1.3.3",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/monsterinsights-page-insights-1.3.3.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/monsterinsights-performance",
+                "version": "1.4.2",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/monsterinsights-performance-1.4.2.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/wp-rocket",
+                "version": "3.9.0.5",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/wp-rocket-3.9.0.5.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "anabstractny/facetwp",
+                "version": "3.8.6",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://packagist.danhthong.com/plugins/facetwp-3.8.6.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
         }
     ],
     "require-all": true,
