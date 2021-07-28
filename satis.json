@@ -9,7 +9,7 @@
                 "version": "5.5.3",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/admin-columns-pro.zip",
+                    "url": "https://packagist.danhthong.com/plugins/admin-columns-pro.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -24,7 +24,7 @@
                 "version": "2.4.2.2",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/bb-plugin-2.4.2.2.zip",
+                    "url": "https://packagist.danhthong.com/plugins/bb-plugin-2.4.2.2.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -39,7 +39,7 @@
                 "version": "1.3.1",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/bb-theme-builder-1.3.1.zip",
+                    "url": "https://packagist.danhthong.com/plugins/bb-theme-builder-1.3.1.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -54,7 +54,7 @@
                 "version": "1.31.1",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/bb-ultimate-addon-1.31.1.zip",
+                    "url": "https://packagist.danhthong.com/plugins/bb-ultimate-addon-1.31.1.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -69,7 +69,7 @@
                 "version": "2.2.0",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/genesis-enews-extended-2.2.zip",
+                    "url": "https://packagist.danhthong.com/plugins/genesis-enews-extended-2.2.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -84,7 +84,7 @@
                 "version": "1.2.3",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/genesis-portfolio-pro-1.2.3.zip",
+                    "url": "https://packagist.danhthong.com/plugins/genesis-portfolio-pro-1.2.3.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -99,7 +99,7 @@
                 "version": "2.3.1",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/genesis-simple-edits-2.3.1.zip",
+                    "url": "https://packagist.danhthong.com/plugins/genesis-simple-edits-2.3.1.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -114,7 +114,7 @@
                 "version": "1.1.5",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/genesis-simple-share-1.1.5.zip",
+                    "url": "https://packagist.danhthong.com/plugins/genesis-simple-share-1.1.5.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -129,7 +129,7 @@
                 "version": "2.3.13",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/leadpages-2.3.13.zip",
+                    "url": "https://packagist.danhthong.com/plugins/leadpages-2.3.13.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -144,7 +144,7 @@
                 "version": "5.9.7",
                 "type": "wordpress-plugin",
                 "dist": {
-                    "url": "https://packagist.danhthong.com/dist/advanced-custom-fields-pro.zip",
+                    "url": "https://packagist.danhthong.com/plugins/advanced-custom-fields-pro.zip",
                     "type": "zip"
                 },
                 "require": {
